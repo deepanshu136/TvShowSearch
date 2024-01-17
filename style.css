@@ -1,0 +1,13 @@
+#body{
+    background: linear-gradient(to right,rgba(92, 168, 219,1),rgba(46, 204, 113, 1));
+}
+h1{
+    font-family:"Times New Roman", Times, serif;
+    color:#fff;
+    font-size: 2.5rem;
+    text-align: center;
+}
+#searchForm{
+    display: flex;
+    justify-content: center;
+}
